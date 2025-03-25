@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FEF52AD5-A3AD-4B73-AA6F-1A629A2679A8}</ProjectGuid>
+    <ProjectGuid>{3F788599-FD3E-48A8-B447-4AC0895779C6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_250325_이윤형</RootNamespace>
-    <AssemblyName>250325_이윤형</AssemblyName>
+    <RootNamespace>_250325_클래스상속</RootNamespace>
+    <AssemblyName>250325_클래스상속</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
